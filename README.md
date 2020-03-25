@@ -1,5 +1,4 @@
-[![Build Status](https://travis-ci.org/hpcloud/tail.svg)](https://travis-ci.org/hpcloud/tail)
-[![Build status](https://ci.appveyor.com/api/projects/status/vrl3paf9md0a7bgk/branch/master?svg=true)](https://ci.appveyor.com/project/Nino-K/tail/branch/master)
+This repo is forked from the repo at hpcloud. This fork adds support for go modules, updates the dependencies, and only test with go 1.13.
 
 # Go package for tail-ing files
 
