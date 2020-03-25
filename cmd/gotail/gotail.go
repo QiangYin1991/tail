@@ -8,7 +8,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/hpcloud/tail"
+	"tail"
 )
 
 func args2config() (tail.Config, int64) {

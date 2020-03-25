@@ -3,8 +3,8 @@
 package tail
 
 import (
-	"github.com/hpcloud/tail/winfile"
 	"os"
+	"tail/winfile"
 )
 
 func OpenFile(name string) (file *os.File, err error) {
