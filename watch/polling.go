@@ -9,7 +9,7 @@ import (
 	"time"
 
 	"github.com/go-tomb/tomb"
-	"tail/util"
+	"github.com/qiangyin1991/tail/util"
 )
 
 // PollingFileWatcher polls the file for changes.

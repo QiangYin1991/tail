@@ -8,7 +8,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"tail/util"
+	"github.com/qiangyin1991/tail/util"
 
 	"github.com/fsnotify/fsnotify"
 	"github.com/go-tomb/tomb"

@@ -16,9 +16,9 @@ import (
 	"time"
 
 	"github.com/go-tomb/tomb"
-	"tail/ratelimiter"
-	"tail/util"
-	"tail/watch"
+	"github.com/qiangyin1991/tail/ratelimiter"
+	"github.com/qiangyin1991/tail/util"
+	"github.com/qiangyin1991/tail/watch"
 )
 
 var (
