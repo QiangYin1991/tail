@@ -1,4 +1,4 @@
-module tail
+module github.com/qiangyin1991/tail
 
 go 1.13
 
